@@ -175,8 +175,10 @@ a{
     margin-bottom: 60px;
  }
 
- .registration-partt h1{
+ .registration-title{
     font-size: 40px;
+    margin-bottom: 30px;
+    color:indianred
  }
  
  .registration-from p input{
